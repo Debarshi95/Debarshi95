@@ -6,7 +6,6 @@
   <li>💻 Primary coding language: JavaScript </li>
   <li> ⌨️ I’m currently learning Full Stack Development</li>
   <li>🔭 I’m currently working on my portfolio & some projects.</li>
-  <li>⚡ Other languages I'm familiar with - Kotlin & Dart</li>
   <li>✔️ 2021 Goals: Become a better developer </li>
   <li>✨ Fun fact: I make cool memes</li>
 </ul>
@@ -21,8 +20,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
@@ -63,8 +60,8 @@
 <a href="https://www.linkedin.com/in/debarshi-bhattacharjee-5a9289164/" target="_blank"><img height="32" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
 <a href="mailto:devdbhatt0@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
 <a href="https://twitter.com/debarshib13" target="_blank"><img height="30" src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp;
-<a href="https://dev.to/devdebarshi">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Neha Soni's DEV Community Profile" height="32">
+<a href="https://dev.to/devdebarshi" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community Profile" height="32">
 </a>
 <a href="https://devdebarshi.hashnode.dev" target="_blank"> <img height="32" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white"></a>
 
