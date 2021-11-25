@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Debarshi
 
-##### Few things about me -
+#### Few things about me -
 
 <ul list-style-type="none">
   <li>💻 Primary coding language: JavaScript </li>
@@ -27,10 +27,6 @@
 
 </div>
 
-### Profile views :
-
-<img src="https://profile-counter.glitch.me/{Debarshi95}/count.svg" />
-
 ### GitHub Stats :
 
 <div align="center"> 
@@ -54,6 +50,10 @@
 </li>
 </ul>
 
+### Profile views :
+
+<img src="https://profile-counter.glitch.me/{Debarshi95}/count.svg" />
+
 ### Connect with me here :
 
 <div align="center">
@@ -62,10 +62,10 @@
 <a href="https://twitter.com/debarshib13" target="_blank"><img height="30" src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp;
 <a href="https://dev.to/devdebarshi" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community Profile" height="32">
-</a>
+</a> &nbsp;
 <a href="https://devdebarshi.hashnode.dev" target="_blank"> <img height="32" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white"></a>
 
 </div>
 
 <br/>
-<h5>Liked any repository? Do show some ❤️ by starring them.</h5>
+<h4>Liked any repository? Do show some ❤️ by starring them.</h4>
