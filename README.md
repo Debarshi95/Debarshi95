@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> <a href="https://twitter.com/debarshib13" target="blank">
-  <img src="https://img.shields.io/twitter/follow/debarshi13?logo=twitter&style=for-the-badge" alt="debarshib13" />
+  <img src="https://img.shields.io/twitter/follow/debarshib13?logo=twitter&style=for-the-badge" alt="debarshib13" />
   </a> 
 </p>
 
