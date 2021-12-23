@@ -1,71 +1,103 @@
-# Hey there 👋, I'm Debarshi
+<h1 align="center">Hi 👋, I'm Debarshi Bhattacharjee</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-#### Few things about me -
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Debarshi95&label=Profile%20views&color=0e75b6&style=flat-square" alt="Debarshi95" /> 
+</p>
 
-<ul list-style-type="none">
-  <li>💻 Primary coding language: JavaScript </li>
-  <li> ⌨️ I’m currently learning Full Stack Development</li>
-  <li>🔭 I’m currently working on my portfolio & some projects.</li>
-  <li>✔️ 2021 Goals: Become a better developer </li>
-  <li>✨ Fun fact: I make cool memes</li>
-</ul>
+<p align="left"> <a href="https://twitter.com/debarshib13" target="blank">
+  <img src="https://img.shields.io/twitter/follow/debarshi13?logo=twitter&style=for-the-badge" alt="debarshib13" />
+  </a> 
+</p>
 
-### My Skills :
+- 🔭 I’m currently working on **my profile and some projects**
 
-<div align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+- 🌱 I’m currently learning **GraphQL, NextJS**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+- 📝 I regularly write articles on [https://dev.to/devdebarshi](https://dev.to/devdebarshi)
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+- 💬 Ask me about **React, JavaScript, Frontend development**
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+- 📫 How to reach me **devdbhatt0@gmail.com**
 
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+- ⚡ Fun fact **I make cool memes**
 
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white"/>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-</div>
-
-### GitHub Stats :
-
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Debarshi95&show_icons=true&theme=gotham" alt="Debarshi B Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debarshi95&layout=compact"/>
-</div>
-
-### Blogs :
-
-<ul list-style-type="none">
-<li>
-  <a target="_blank" href="https://dev.to/devdebarshi/javascript-basics-scopes-hoisting-2lmj">JavaScript Basics- Scopes & Hoisting 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://dev.to/devdebarshi" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devdebarshi" height="30" width="40" />
   </a>
-</li>
-<li>
-  <a target="_blank" href="https://dev.to/devdebarshi/javascript-basics-closures-hgp">JavaScript Basics-Closures
+  <a href="https://twitter.com/debarshi13" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debarshi13" height="30" width="40" />
   </a>
-</li>
-</ul>
+  <a href="https://linkedin.com/in/debarshi-bhattacharjee-5a9289164/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debarshi-bhattacharjee-5a9289164/" height="30" width="40" />
+  </a>
+</p>
 
-### Profile views :
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+</p>
 
-<img src="https://profile-counter.glitch.me/{Debarshi95}/count.svg" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debarshi95&show_icons=true&locale=en&layout=compact" alt="debarshi95" />
+</p>
 
-### Connect with me here :
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debarshi95&" alt="debarshi95" />
+</p>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/debarshi-bhattacharjee-5a9289164/" target="_blank"><img height="32" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
-<a href="mailto:devdbhatt0@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
-<a href="https://twitter.com/debarshib13" target="_blank"><img height="30" src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp;
-<a href="https://dev.to/devdebarshi" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community Profile" height="32">
-</a> &nbsp;
-<a href="https://devdebarshi.hashnode.dev" target="_blank"> <img height="32" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white"></a>
 
-</div>
-
-<br/>
 <h4>Liked any repository? Do show some ❤️ by starring them.</h4>
