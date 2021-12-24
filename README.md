@@ -16,15 +16,13 @@
 
 - 📝 I regularly write articles on [https://dev.to/devdebarshi](https://dev.to/devdebarshi)
 
-- 💬 Ask me about **React, JavaScript, Frontend development**
+- 💬 Ask me about **React |JavaScript | Frontend Development**
 
 - 📫 How to reach me **devdbhatt0@gmail.com**
 
 - ⚡ Fun fact **I make cool memes**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -91,13 +89,16 @@
   </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debarshi95&show_icons=true&locale=en&layout=compact" alt="debarshi95" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debarshi95&" alt="debarshi95" />
+<p align="left">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Debarshi95&show_icons=true&hide_border=true&theme=dark" />
+  
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=debarshi95&show_icons=true&locale=en&layout=compact" alt="debarshi95" />
 </p>
 
 
 <h4>Liked any repository? Do show some ❤️ by starring them.</h4>
+
+
+
+
+
